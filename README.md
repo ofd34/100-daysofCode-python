@@ -1,2 +1,2 @@
-# 100DaysofCode-python
-100DaysofCode-python
+# 100 days-of-code-python
+100 days-of-dode-python
