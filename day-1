@@ -1,0 +1,35 @@
+Best question of interviews
+
+a = input("a :")
+b = input("b :")
+
+Answer
+c = a                    
+a = b
+b = c
+
+
+print("a : " + a)
+print("b : " + b)
+
+-------------------------------------------------------------------------------------------------------
+
+Variable Naming:
+
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+
+#Legal variable names:
+myvar = 
+my_var = 
+_my_var = 
+myVar=
+MYVAR =
+myvar2 =
+
+#Illegal variable names:
+2myvar = 
+my-var = 
+my var = 
