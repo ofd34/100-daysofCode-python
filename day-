@@ -1,0 +1,55 @@
+Data Types:
+
+• String	=  "Hello" = Double Quotes Around
+• Integer	=   123
+• Float	=   3.14
+• Boolean	=   true/false
+
+If you want to convert a value to a type you want, you can use functions like str() int() float() bool().
+
+len = Specifies the length of the given variable (Function isn't working with integer values.)
+type = Indicates the type of the written value.
+round = Function returns a floating point number that is a rounded version of the specified number, with the specified number of decimals.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+PEMDAS 
+
+parentheses	= () 
+exponents		= **
+multiplication	= *
+division		= /
+addition		= +
+subtraction	= -
+
+3 * 3 + 3 / 3 - 3	= 7.0
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Mathematical Operations:
+
+7 + 2	= 9
+7 -  2	= 5
+7 *  2	= 14
+7 /  2	= 3.5
+7 //  3	= 2
+7 ** 3	= 343
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Number Manipulation:
+
++=
+-=
+/=
+*=
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+F String:
+
+F string comes before double quotes.
+We put the {} variables in curly braces.
+
+Example Code:
+score = 0
+height = 1.8
+isWinning = True
+
+print(f"Your socore is {score}, Your height is {height}, You are winning is {isWinning}")
