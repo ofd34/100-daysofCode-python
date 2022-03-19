@@ -2,7 +2,7 @@ Data Types:
 
 • String	     =  "Hello" = Double Quotes Around
 • Integer	     =   123
-• Float	          =   3.14
+• Float	            =   3.14
 • Boolean	     =   true/false
 
 If you want to convert a value to a type you want, you can use functions like str() int() float() bool().
