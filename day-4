@@ -1,1 +1,20 @@
+Random Module:
 
+We can generate random numbers with the Random module.
+
+List:
+
+states_of_america = ["Florida", "New York"]
+
+print(states_of_america[1])
+
+Output:
+    New York
+
+Data Structures:
+
+• .append(x)
+
+states_of_americe.append["Angelaland"]
+
+• .extend(iterable)
